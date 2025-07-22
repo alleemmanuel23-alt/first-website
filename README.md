@@ -1,14 +1,32 @@
-# First Website Project
+# Alle Emmanuel -Portfolio Website
 
-This is a simple, responsive one-page website builtusing HTML and CSS.
+Welcome to my personal web developer portfolio site!
+This website showcases who I am, the services i offer, and the projects I've built.
 
 ## Live Demo
-Visit the live version here: https://https://chic-tapioca-2de45c.netlify.app/
+Visit the live version here: https://chic-tapioca-2de45c.netlify.app/
 
 ## Features 
-- Responsive layout
-- Clean, modern design
-- Mobile-friendly
+- Clean Responsive layout
+- About Me section
+- Project showcase with demo links
+- Services offered
+- Contact details (WhatsApp + Email)
+- Built with HTML & CSS
 
+  ## Technologies Used
+  - HTML5
+  - CSS3
+  - Netlify (for hosting)
+  - GitHub (for version control)
+
+  ## Contact
+  - Whatsapp: +234 802 313 1432 (https://wa.me/+234 802 313 1432)
+  - Email: alleemmanuel23@gmail.com
+
+  ## License
+  This project is open source and free to use.
+
+  
 - ## Author
 - Alle Emmanuel- Web Developer
