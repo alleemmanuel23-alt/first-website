@@ -3,7 +3,7 @@
 This is a simple, responsive one-page website builtusing HTML and CSS.
 
 ## Live Demo
-Visit the live version here: https://alleemmanuel23-alt.netlify.app
+Visit the live version here: https://vermillion-wisp-3eea43.netlify.app
 
 ## Features 
 - Responsive layout
